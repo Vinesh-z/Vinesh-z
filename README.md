@@ -44,12 +44,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Keycloak — integrating with nodejs and angular](https://medium.com/@vinzee/keycloak-integrating-with-nodejs-and-angular-27eada9c8272)
-- [Apache Brooklyn - Policy Flexibility](https://medium.com/@vinzee/apache-brooklyn-policy-flexibility-97df76265a8d)
-- [Apache Brooklyn- A Step Towards Autonomic Computing](https://medium.com/@vinzee/apache-brooklyn-a-step-towards-autonomic-computing-8d5f06e4d9e6)
-<!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@vinzee)
 
 ---
 
