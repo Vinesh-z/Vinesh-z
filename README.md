@@ -56,10 +56,14 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Vinesh-z's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vinesh-z&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="Vinesh-z's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vinesh-z&show_icons=true&hide_border=true&theme=dark" />
 </details>
+
+<details>
+  <summary>:zap: Top Language Stats</summary>
+  <img align="left" alt="Vinesh-z's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinesh-z&show_icons=true&hide_border=true&theme=radical" />
+</details>
+
 
 [instagram]: https://www.instagram.com/vinesh_z
 [linkedin]: www.linkedin.com/in/vinesh-kumar-466338159
