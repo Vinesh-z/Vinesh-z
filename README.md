@@ -69,5 +69,5 @@
 
 
 [instagram]: https://www.instagram.com/vinesh_z
-[linkedin]: www.linkedin.com/in/vinesh-kumar-466338159
+[linkedin]: https://www.linkedin.com/in/vinesh-kumar-466338159
 [facebook]: https://www.facebook.com/vinesh.kumar.9469
