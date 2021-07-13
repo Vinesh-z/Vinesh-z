@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on creating a blogging website using reactjs and golang
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to do some free-lancing work in free time
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love dogs and travelling different places with friends
 
 ### Connect with me:
